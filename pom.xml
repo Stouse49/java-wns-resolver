@@ -110,7 +110,7 @@
         <dependency>
             <groupId>org.goldcoinj</groupId>
             <artifactId>goldcoinj-core</artifactId>
-            <version>0.14.2</version>
+            <version>0.14.3</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
